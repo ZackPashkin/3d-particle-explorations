@@ -66,17 +66,17 @@ body {
 }
 
 .demo-4 {
-	--color-text: #fff;
-	--color-bg: #fff;
-	--color-link: #711d55;
+        --color-text: #fff;
+	--color-bg: #504f4f;
+	--color-link: #666;
 	--color-link-hover: #fff;
-	--color-top-right: magenta;
-	--color-bottom-left: red;
+	--color-top-right: #222;
+	--color-bottom-left: #000;
 }
 
 .completed .demo-4 {
-	--color-text: #222;
-	--color-link: #222;
+        --color-text: #fff;
+	--color-link: #000;
 	--color-link-hover: #aaa;
 }
 
